@@ -1,1 +1,1 @@
-import '../src/decarator';
+import '../src/code';
